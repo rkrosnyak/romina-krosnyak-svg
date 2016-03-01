@@ -1,1 +1,3 @@
-# romina-krosnyak-svg
+# SVG Design
+
+This is my version control collaboration
